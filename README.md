@@ -44,17 +44,9 @@ Jujur aja, proses pengembangannya gak sendirian. Aku dibantu sama AI (IBM Granit
 
 ## 🚀 Cara Pakai
 1. Download file-nya
-2. Pindahkan ke C:/xampp/htdocs/capstoneproject jika xampp menggunakan port 80 maka cara manggilnya localhost:8080/capstoneproject namun jika menggunakan port default seperti 443
-3. Buka `localhost:8080/capstoneproject` di browser
+2. Pindahkan ke C:/xampp/htdocs jika xampp menggunakan port 80 maka cara manggilnya localhost:8080/NoteMe_CapstobeProject namun jika menggunakan port default seperti port 443 tidak menggunakan port 8080 di localhostnya 
+3. Buka `localhost:8080/NoteMe_CapstoneProject` di browser
 4. Langsung aja tulis catatanmu ✍️
-
----
-
-## 🌐 Mau Online-in?
-Tinggal upload aja ke:
-- Netlify
-- Vercel
-- Atau hosting HTML biasa
 
 ---
 
